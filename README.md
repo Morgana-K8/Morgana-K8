@@ -1,5 +1,5 @@
 - 👋  Oie, eu sou a Morgana Koehler Demetrio
-- 👀 I’m intere em  conhecimento
+- 👀 I’m intere em  
 - 🌱 I’m currently learning ...Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
