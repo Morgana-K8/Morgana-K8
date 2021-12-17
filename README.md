@@ -1,8 +1,6 @@
-- 👋 Olá, eu sou a Morgana Koehler Demetrio
-- 👀 I’m intere em  
-- 🌱 I’m currently learning ...Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Oiii, eu me chamo Morgana
+- 👀 I’m intere em aprender 
+- 🌱 I’m currently learning - 📫 How to reach me ...
 
 <!---
 Morgana-K8/Morgana-K8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
